@@ -5,5 +5,9 @@ Webpage for the course including description, assignments, lecture videos, and u
 
 Access the videos on YouTube [here](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16). 
 
-Lecture Notes
+### Lecture Notes
 - [Lecture 1](./lecture-notes/Lecture1.md)
+- [Lecture 2](./lecture-notes/Lecture2.md)
+
+
+### Course Materials 
